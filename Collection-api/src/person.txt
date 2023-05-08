@@ -1,0 +1,5 @@
+name=Shalom
+age=21
+city=kochi
+gender=Male
+address=221B Baker Street
